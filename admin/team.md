@@ -20,6 +20,8 @@ Hello, My name is Brandon Salinas Sanchez and I am a 2nd year CS major! In the f
 
 ### Andric Li
 
+Hey, I'm currently a 2nd year CS major and I was born and raised in San Diego, CA. I plan on doing something related to software engineering. Some of my hobbies include playing tennis, doing origami, hiking, and photography.
+
 ### Daniel Lee
 
 ### Kai Yeung
