@@ -14,6 +14,8 @@
 
 ### Tarun Murugan - Team Leader
 
+Yo, I'm Tarun and I'm a 2nd year CS major. I am currently interested in machine learning, and would eventually like to become an entrepreneur in the space. I'm from Chennai, India and in my free time I enjoy pretending to cook michelin star meals and working out.
+
 ### Brandon Salinas Sancchez - Team Leader
 
 Hello, My name is Brandon Salinas Sanchez and I am a 2nd year CS major! In the future I plan to become a software engineer. I am from Carlsbad, CA and I like to listen to music and hang out with friends.
@@ -34,7 +36,7 @@ Hi! I am a third Year Computer Science Major from San Jose, CA. I am interested 
 
 ### Sherwin Motlagh
 
-Hi everyone, I am a third year CS major and I'm from Cupertino CA. I am interested in software engineering. I also like to play OW2 on my free time, add me battlenetID: Tatsumi#12178 
+Hi everyone, I am a third year CS major and I'm from Cupertino CA. I am interested in learning and working on projects with people for more experience and knowledge. I also like to play OW2 on my free time, add me battlenetID: Tatsumi#12178 
 
 ### Vincent Arnaudin
 
