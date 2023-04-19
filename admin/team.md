@@ -34,7 +34,7 @@ Hi! I am a third Year Computer Science Major from San Jose, CA. I am interested 
 
 ### Sherwin Motlagh
 
-Hi everyone, I am a third year CS major and I'm from Cupertino CA. I am interested in learning and working on projects with people for more experience and knowledge. I also like to play OW2 on my free time, add me battlenetID: Tatsumi#12178 
+Hi everyone, I am a third year CS major and I'm from Cupertino CA. I am interested in software engineering. I also like to play OW2 on my free time, add me battlenetID: Tatsumi#12178 
 
 ### Vincent Arnaudin
 
